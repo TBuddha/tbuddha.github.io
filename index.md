@@ -1,4 +1,4 @@
 ## Welcome
 
-I haven't thought about the content yet, you can take a look at my project.  
+内容还没想好，可以先看看repo(手动滑稽)
 [link](https://github.com/TBuddha)
